@@ -27,13 +27,12 @@ Para compilar e executar o projeto, você precisará ter o compilador `gcc` inst
 
 1.  **Clone o repositório:**
     ```bash
-    # Insira o comando git clone do seu repositório aqui
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/sktapn/FinalProject_OS_UFRR_Desc_4_2025.git](https://github.com/sktapn/FinalProject_OS_UFRR_Desc_4_2025.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd seu-repositorio
+    cd FinalProject_OS_UFRR_Desc_4_2025
     ```
 
 3.  **Compile o código:**
