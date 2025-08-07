@@ -7,4 +7,4 @@ Este repositório é destinado ao **Projeto Final da disciplina de Sistemas Oper
 - **Andreza Oliveira Gonçalves**
 
 ## Descrição
-O projeto faz parte das atividades finais da disciplina e tem como objetivo aplicar conceitos fundamentais de **Sistemas Operacionais** por meio de um estudo prático, de acordo com o tema definido em sala de aula.
+O projeto faz parte das atividades finais da disciplina e tem como objetivo aplicar conceitos fundamentais de **Sistemas Operacionais** por meio de um estudo prático, de acordo com o tema de Simulação de Memória Virtual e Física definido em sala de aula.
